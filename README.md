@@ -9,3 +9,5 @@ zsh配置文件
 + powerline #这个包的文件路径写死了，在zshrc第8行修改
 + thefuck
 + autojump
+
+修改了部分ls的颜色/样式，在旧版ls中可能会颜色/样式鬼畜甚至无颜色
